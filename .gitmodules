@@ -4,3 +4,6 @@
 [submodule "Lab2/TCES-430-Lab-2"]
 	path = Lab2/TCES-430-Lab-2
 	url = https://github.com/landonroxypal-repo/TCES-430-Lab-2
+[submodule "Lab4/TCES_430_Lab_4"]
+	path = Lab4/TCES_430_Lab_4
+	url = https://github.com/pheonixfighter/TCES_430_Lab_4
