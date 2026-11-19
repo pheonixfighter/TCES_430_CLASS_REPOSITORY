@@ -7,3 +7,6 @@
 [submodule "Lab4/TCES_430_Lab_4"]
 	path = Lab4/TCES_430_Lab_4
 	url = https://github.com/pheonixfighter/TCES_430_Lab_4
+[submodule "Lab5/TCES_430_LAB_5"]
+	path = Lab5/TCES_430_LAB_5
+	url = https://github.com/pheonixfighter/TCES_430_LAB_5
